@@ -1,0 +1,22 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+
+}
+.cuadrado {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    margin: 2px;
+    display: inline-block;
+    
+} 
+.contenedor{
+    
+    background-color: aquamarine;
+    padding: 10px;
+    display: flex; 
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+} 
